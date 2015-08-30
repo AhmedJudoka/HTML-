@@ -1,0 +1,35 @@
+<html>  
+  <head>
+  <title><h1>Ahmed Radwan's BIO</h2></title>
+		<style type="text/css">
+			body {
+				background-color: rgb(200,200,200);
+				color: darkblue;
+				padding: 20px;
+				font-family: Arial, light, sans-serif;}
+			h1 {
+				background-color: DarkCyan;
+				padding: inherit;}
+			h2 {
+				background-color: #ee3e80;
+				padding: inherit;}
+			p {
+				background-color:lightpink ;
+				color: rgb(100,100,90);
+				padding: inherit;}
+		</style>
+
+<h2><b>My Biography.<b/> </h2>
+
+</head>
+  <body> 
+ <p> My name is Ahmed Radwan. 
+ <p> I'm 19 years old and I'm studying business major </p> 
+ <p> <i>I LOVE READING </i> and my life moto is today a READER,Tomorrow a Leader </p> 
+ <p> I work at Vodafone UK, The world's leading telecommunications company </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Vodafone.svg"/>
+
+<p> my best website is <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia </a>  the free encyclopedia </p>
+
+ </body>
+</html>
